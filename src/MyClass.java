@@ -7,6 +7,7 @@ public class MyClass {
     }
 
     public static void main(String[] args) {
+
         addingNumbers(5, 10);
     }
 }
