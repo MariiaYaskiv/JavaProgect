@@ -7,6 +7,6 @@ public class MyClass {
     }
 
     public static void main(String[] args) {
-        addingNumbers(num1, num2);
+        addingNumbers(6, 7);
     }
 }
